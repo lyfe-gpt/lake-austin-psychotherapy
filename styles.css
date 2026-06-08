@@ -506,6 +506,10 @@ a.card{ text-decoration:none; }
   /* cta section mobile */
   .cta-actions{ flex-direction:column; align-items:stretch; }
   .cta-actions .btn{ width:100%; justify-content:center; }
+
+  /* service page hero button groups */
+  .inner-hero-actions{ flex-direction:column; align-items:stretch; }
+  .inner-hero-actions .btn{ width:100%; justify-content:center; }
 }
 @media (prefers-reduced-motion:reduce){
   *{ scroll-behavior:auto !important; transition:none !important; }
