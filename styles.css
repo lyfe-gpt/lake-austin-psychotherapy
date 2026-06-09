@@ -215,9 +215,9 @@ a.card{ text-decoration:none; }
 .hero-trust-item span{ font-family:var(--font-mono); font-size:12px; font-weight:600; letter-spacing:0.1em; text-transform:uppercase; color:var(--text-on-canvas-muted); white-space:nowrap; }
 
 /* ============================ DIFFERENTIATORS STRIP ============================ */
-.diff-strip{ border-top:1px solid var(--border-on-canvas); border-bottom:1px solid var(--border-on-canvas); }
-.diff-inner{ max-width:1200px; margin:0 auto; padding:0 40px; display:flex; align-items:stretch; flex-wrap:wrap; justify-content:center; }
-.diff-item{ display:flex; align-items:flex-start; gap:12px; padding:22px 28px; flex:1; min-width:220px; max-width:320px; }
+.diff-strip{ background:var(--bg-canvas-deep); border-top:1px solid var(--border-on-canvas); border-bottom:1px solid var(--border-on-canvas); }
+.diff-inner{ max-width:1200px; margin:0 auto; padding:0 40px; display:flex; align-items:stretch; flex-wrap:nowrap; justify-content:center; }
+.diff-item{ display:flex; align-items:flex-start; gap:12px; padding:22px 20px; flex:1; min-width:0; }
 .diff-icon{ display:inline-flex; flex-shrink:0; margin-top:2px; }
 .diff-title{ font-family:var(--font-display); font-weight:600; font-size:14.5px; color:var(--text-primary); line-height:1.3; }
 .diff-sub{ font-family:var(--font-body); font-size:13.5px; color:var(--text-on-canvas-muted); margin-top:4px; line-height:1.5; }
@@ -519,9 +519,16 @@ a.card{ text-decoration:none; }
   .faq-q span{ font-size:18px; }
   .faq-a p{ font-size:17px; }
   .btn-lg{ font-size:16px; }
-  .diff-inner{ padding:0 24px; flex-direction:column; }
-  .diff-item{ padding:16px 0; max-width:100%; border-bottom:1px solid var(--border-on-canvas); }
+  /* diff strip: stack vertically on mobile */
+  .diff-inner{ padding:0 24px; flex-direction:column; flex-wrap:nowrap; }
+  .diff-item{ padding:16px 0; border-bottom:1px solid var(--border-on-canvas); }
   .diff-item:last-child{ border-bottom:none; }
+  .diff-sep{ display:none; }
+}
+@media (max-width:860px) and (min-width:681px){
+  /* diff strip: 2x2 at tablet */
+  .diff-inner{ flex-wrap:wrap; padding:0 24px; }
+  .diff-item{ flex:1 1 42%; padding:20px 16px; }
   .diff-sep{ display:none; }
 }
 @media (prefers-reduced-motion:reduce){
