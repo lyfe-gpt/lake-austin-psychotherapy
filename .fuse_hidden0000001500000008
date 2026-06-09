@@ -1,0 +1,598 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Our Services | Lake Austin Psychotherapy</title>
+<meta name="description" content="EMDR therapy, ketamine-assisted psychotherapy, and prolonged grief disorder treatment. Three evidence-based paths, one practice. Austin and across Texas." />
+
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,500;0,600;1,400&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="styles.css" />
+<script src="https://unpkg.com/lucide@0.460.0/dist/umd/lucide.min.js"></script>
+
+<link rel="canonical" href="https://www.lakeaustinpsychotherapy.com/services" />
+<link rel="author" href="https://www.lakeaustinpsychotherapy.com/our-team" />
+<!-- SCHEMA: MedicalBusiness -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalBusiness",
+  "name": "Lake Austin Psychotherapy",
+  "url": "https://www.lakeaustinpsychotherapy.com",
+  "telephone": "512-666-1184",
+  "email": "info@lakeaustinpsychotherapy.com",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1504 Wood Acre Ln",
+    "addressLocality": "Austin",
+    "addressRegion": "TX",
+    "postalCode": "78733",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.3345,
+    "longitude": -97.8441
+  },
+  "areaServed": {
+    "@type": "State",
+    "name": "Texas"
+  },
+  "medicalSpecialty": [
+    "Psychiatry",
+    "Psychology",
+    "Counseling"
+  ],
+  "availableService": [
+    {
+      "@type": "MedicalTherapy",
+      "name": "EMDR Therapy"
+    },
+    {
+      "@type": "MedicalTherapy",
+      "name": "Ketamine Assisted Psychotherapy"
+    },
+    {
+      "@type": "MedicalTherapy",
+      "name": "Prolonged Grief Disorder Therapy"
+    },
+    {
+      "@type": "MedicalTherapy",
+      "name": "Telehealth Therapy"
+    }
+  ],
+  "priceRange": "$$",
+  "openingHours": "Mo-Fr 09:00-18:00",
+  "sameAs": [
+    "https://www.instagram.com/lakeaustinpsychotherapy/",
+    "https://www.linkedin.com/in/mary-moore-39006233/"
+  ]
+}
+</script>
+<!-- SCHEMA: BreadcrumbList -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://www.lakeaustinpsychotherapy.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Services",
+      "item": "https://www.lakeaustinpsychotherapy.com/services"
+    }
+  ]
+}
+</script>
+
+<!-- SCHEMA: FAQPage -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know which service is right for me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "That’s exactly what your <strong>free 1-hour consultation</strong> is for. We’ll talk through what brings you in and recommend the best fit. Sometimes it’s one modality, sometimes a combination."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you offer telehealth for all services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<strong>EMDR and grief therapy</strong> are available via secure video statewide. Ketamine-assisted sessions take place in person; we provide <strong>private transportation</strong> from Austin, Dallas, Houston and San Antonio."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What does care cost? Is there a sliding scale?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rates are discussed in your <strong>free consultation,</strong> and a <strong>sliding scale</strong> is available. We’ll also explain the <strong>Good Faith Estimate</strong> and No Surprises Act so there are no surprises."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How quickly can I start?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<strong>We have no waitlist.</strong> Most clients begin <strong>within days</strong> of their consultation. Reach out and we’ll find a time that works for you."
+      }
+    }
+  ]
+}
+</script>
+</head>
+<body>
+
+<!-- ============================== NAV ============================== -->
+<header class="nav" id="nav">
+  <div class="nav-inner">
+    <a href="index.html" style="display:flex;align-items:center;gap:11px;text-decoration:none;">
+      <span class="logo-mark"><i data-lucide="waves" width="17" height="17" stroke-width="2" style="color:var(--bg-canvas)"></i></span>
+      <span class="logo-name">Courtney Kurtz, LPC-A</span>
+    </a>
+    <nav class="nav-links" id="nav-links">
+      <div class="mega-trigger" id="mega-trigger">
+        <button class="nav-link mega-btn is-active" aria-expanded="false" aria-haspopup="true" aria-controls="mega-panel">
+          Services <i data-lucide="chevron-down" width="14" height="14" class="mega-chevron" style="color:currentColor"></i>
+        </button>
+      </div>
+      <a class="nav-link nav-faq" href="FAQ.html">FAQ</a>
+      <a class="nav-link" href="blog.html">Blog</a>
+      <a class="nav-link" href="Team.html">About</a>
+      <a class="nav-link" href="Contact.html">Contact</a>
+      <a class="nav-phone" href="tel:5126661184">512·666·1184</a>
+      <a class="btn btn-sm btn-primary" href="Contact.html">Free Consultation
+        <i data-lucide="arrow-right" width="15" height="15" style="color:var(--on-primary)"></i></a>
+    </nav>
+    <button class="nav-ham" id="nav-ham" aria-label="Open menu" aria-expanded="false">
+      <i data-lucide="menu" width="22" height="22" style="color:var(--text-primary)"></i>
+    </button>
+  </div>
+
+  <!-- Mega menu panel -->
+  <div class="mega-panel" id="mega-panel" role="region" aria-label="Services menu">
+    <div class="mega-inner">
+      <div class="mega-col">
+        <div class="mega-col-label">Treatment</div>
+        <a class="mega-item" href="EMDR.html">
+          <span class="mega-item-icon"><i data-lucide="waves" width="16" height="16" stroke-width="2" style="color:var(--gold-600)"></i></span>
+          EMDR Therapy
+        </a>
+        <a class="mega-item" href="Ketamine.html">
+          <span class="mega-item-icon"><i data-lucide="sparkles" width="16" height="16" stroke-width="2" style="color:var(--gold-600)"></i></span>
+          Ketamine-Assisted
+        </a>
+        <a class="mega-item" href="Grief.html">
+          <span class="mega-item-icon"><i data-lucide="leaf" width="16" height="16" stroke-width="2" style="color:var(--gold-600)"></i></span>
+          Prolonged Grief
+        </a>
+        <a class="mega-item" href="Services.html">
+          <span class="mega-item-icon"><i data-lucide="messages-square" width="16" height="16" stroke-width="2" style="color:var(--gold-600)"></i></span>
+          Talk Therapy &amp; CBT
+        </a>
+      </div>
+      <div class="mega-col">
+        <div class="mega-col-label">What We Treat</div>
+        <a class="mega-item" href="Anxiety.html">Anxiety &amp; Panic</a>
+        <a class="mega-item" href="Anxiety.html">Depression</a>
+        <a class="mega-item" href="Anxiety.html">PTSD &amp; Trauma</a>
+        <a class="mega-item" href="Anxiety.html">Grief &amp; Loss</a>
+        <a class="mega-item" href="Anxiety.html">Alcohol Use Disorder</a>
+        <div style="margin-top:16px;padding-top:14px;border-top:1px solid var(--border-on-cream);">
+          <a class="mega-item" href="Telehealth.html">
+            <span class="mega-item-icon"><i data-lucide="monitor" width="16" height="16" stroke-width="2" style="color:var(--gold-600)"></i></span>
+            Telehealth Across Texas
+          </a>
+        </div>
+      </div>
+      <div class="mega-col mega-col-feature">
+        <div class="mega-col-label">Quick answers</div>
+        <a class="mega-faq-link" href="FAQ.html#getting-started">Getting started &amp; pricing</a>
+        <a class="mega-faq-link" href="FAQ.html#emdr">About EMDR</a>
+        <a class="mega-faq-link" href="FAQ.html#ketamine">About ketamine therapy</a>
+        <a class="mega-faq-link" href="FAQ.html#grief">About prolonged grief</a>
+        <a class="mega-faq-link" href="FAQ.html#telehealth">Telehealth questions</a>
+        <div class="mega-cta-block">
+          <a class="btn btn-sm btn-primary" href="Contact.html">Book free consultation
+            <i data-lucide="arrow-right" width="14" height="14" style="color:var(--on-primary)"></i></a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Mobile drawer -->
+  <div class="nav-drawer" id="nav-drawer" aria-hidden="true">
+    <div class="drawer-sub">Treatment</div>
+    <a class="drawer-sublink" href="EMDR.html">EMDR Therapy</a>
+    <a class="drawer-sublink" href="Ketamine.html">Ketamine-Assisted</a>
+    <a class="drawer-sublink" href="Grief.html">Prolonged Grief</a>
+    <a class="drawer-sublink" href="Services.html">Talk Therapy &amp; CBT</a>
+    <div class="drawer-sub">What We Treat</div>
+    <a class="drawer-sublink" href="Anxiety.html">Anxiety &amp; Depression</a>
+    <a class="drawer-sublink" href="Anxiety.html">PTSD &amp; Trauma</a>
+    <a class="drawer-sublink" href="Anxiety.html">Grief &amp; AUD</a>
+    <a class="drawer-sublink" href="Telehealth.html">Telehealth Across Texas</a>
+    <a class="drawer-link drawer-faq" href="FAQ.html">FAQ</a>
+    <a class="drawer-link" href="blog.html">Blog</a>
+    <a class="drawer-link" href="Team.html">About</a>
+    <a class="drawer-link" href="Contact.html">Contact</a>
+    <div class="drawer-actions">
+      <a class="btn btn-lg btn-primary" href="Contact.html">Book free consultation
+        <i data-lucide="arrow-right" width="17" height="17" style="color:var(--on-primary)"></i></a>
+      <a class="btn btn-lg btn-ghost-canvas" href="tel:5126661184">512·666·1184</a>
+    </div>
+  </div>
+</header>
+
+<!-- ============================== HERO ============================== -->
+<section class="inner-hero">
+  <div class="inner-hero-glow"></div>
+  <div class="inner-hero-grid">
+    <div>
+      <div class="crumb"><span>Home</span><span class="sep">›</span><span class="cur">Services</span></div>
+      <div class="eyebrow" style="margin-bottom:16px;">Our Services</div>
+      <h1 style="font-size:52px;">Three evidence-based paths to care</h1>
+      <p class="serif" style="font-size:19px;margin-top:22px;max-width:520px;">
+        We offer the modalities with the strongest research behind them, matched to what you&rsquo;re facing, paced to how you feel. In-person in Austin and <em>telehealth across all of Texas.</em>
+      </p>
+      <div class="inner-hero-badges">
+        <span class="badge badge-lg badge-gold-soft">EMDRIA-Certified</span>
+        <span class="badge badge-lg badge-gold-soft">Physician-administered</span>
+        <span class="badge badge-lg badge-gold-soft">Telehealth statewide</span>
+        <span class="badge badge-lg badge-gold-soft">No waitlists</span>
+      </div>
+      <div class="inner-hero-actions">
+        <a class="btn btn-lg btn-primary" href="Contact.html">Book your free hour
+          <i data-lucide="arrow-right" width="17" height="17" style="color:var(--on-primary)"></i></a>
+        <a class="btn btn-lg btn-secondary" href="Telehealth.html">
+          <i data-lucide="monitor" width="16" height="16" style="color:var(--text-primary)"></i> Telehealth info</a>
+      </div>
+    </div>
+    <div style="display:flex;flex-direction:column;gap:16px;">
+      <div class="inner-hero-photo media">
+        <img src="https://images.squarespace-cdn.com/content/v1/61889ee3b4c1fc40989ecd72/6431c870-71f4-4125-9afd-53698991fb5c/IMG_2530.JPG?format=1500w" alt="Lake Austin, care statewide" onerror="this.classList.add('broken')" style="border-radius:var(--radius-lg);"  loading="lazy"/>
+      </div>
+      <a class="card card-sm card-interactive" href="Telehealth.html" style="padding:18px 22px;display:flex;align-items:center;gap:14px;text-decoration:none;">
+        <span class="svc-icon" style="flex-shrink:0;"><i data-lucide="monitor" width="18" height="18" stroke-width="2" style="color:var(--gold-600)"></i></span>
+        <div>
+          <div style="font-family:var(--font-display);font-weight:600;font-size:15px;color:var(--text-on-surface);">Telehealth across Texas</div>
+          <div style="font-family:var(--font-body);font-size:13.5px;color:var(--text-on-surface-muted);margin-top:3px;">Encrypted sessions from anywhere in the state. EMDR &amp; grief therapy available remotely.</div>
+        </div>
+        <i data-lucide="arrow-right" width="16" height="16" style="color:var(--gold-600);flex-shrink:0;margin-left:auto;"></i>
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- ============================== SERVICE CARDS ============================== -->
+<article itemscope itemtype="https://schema.org/MedicalWebPage">
+<section style="padding:80px 0 96px;">
+  <div class="wrap">
+    <div class="svc-grid">
+
+      <a class="card card-sm card-interactive svc-card" href="EMDR.html">
+        <div class="svc-photo media">
+          <img src="https://images.squarespace-cdn.com/content/v1/61889ee3b4c1fc40989ecd72/57f4fb30-d65c-4aad-a1b5-d2920dd15b68/IMG_7817.jpg?format=1200w" alt="EMDR therapy session" onerror="this.classList.add('broken')"  loading="lazy"/>
+          <div class="svc-badge"><span class="badge badge-sm badge-gold-solid">EMDRIA-Certified</span></div>
+        </div>
+        <div class="svc-body">
+          <div class="svc-titlerow">
+            <span class="svc-icon"><i data-lucide="waves" width="18" height="18" stroke-width="2" style="color:var(--gold-600)"></i></span>
+            <h3 class="svc-title">EMDR Therapy</h3>
+          </div>
+          <p class="svc-text">Eye Movement Desensitization &amp; Reprocessing: extensively researched, often faster than talk therapy. We process the event itself. Available remotely throughout Texas.</p>
+          <span class="svc-link">Learn more <i data-lucide="arrow-right" width="15" height="15" style="color:var(--gold-600)"></i></span>
+        </div>
+      </a>
+
+      <a class="card card-sm card-interactive svc-card" href="Ketamine.html">
+        <div class="svc-photo media">
+          <img src="https://images.squarespace-cdn.com/content/v1/61889ee3b4c1fc40989ecd72/f7401f0f-c4c6-405b-a913-56aed9ee04d3/IMG_2525.JPG?format=1200w" alt="Ketamine-assisted psychotherapy setting" onerror="this.classList.add('broken')"  loading="lazy"/>
+          <div class="svc-badge"><span class="badge badge-sm badge-blush-solid">Physician-administered</span></div>
+        </div>
+        <div class="svc-body">
+          <div class="svc-titlerow">
+            <span class="svc-icon"><i data-lucide="sparkles" width="18" height="18" stroke-width="2" style="color:var(--gold-600)"></i></span>
+            <h3 class="svc-title">Ketamine-Assisted Psychotherapy</h3>
+          </div>
+          <p class="svc-text">An evidence-based path for treatment-resistant depression, PTSD and anxiety. Physician-administered infusions paired with ongoing psychotherapy, creating space for real insight and momentum.</p>
+          <span class="svc-link">Learn more <i data-lucide="arrow-right" width="15" height="15" style="color:var(--gold-600)"></i></span>
+        </div>
+      </a>
+
+      <a class="card card-sm card-interactive svc-card" href="Grief.html">
+        <div class="svc-photo media">
+          <img src="https://images.squarespace-cdn.com/content/v1/61889ee3b4c1fc40989ecd72/795fd4c8-5133-4e7b-aeac-bc64e786ca4a/IMG_2636.jpg?format=1200w" alt="Quiet natural setting for grief therapy" onerror="this.classList.add('broken')"  loading="lazy"/>
+          <div class="svc-badge"><span class="badge badge-sm badge-positive-solid">70% efficacy</span></div>
+        </div>
+        <div class="svc-body">
+          <div class="svc-titlerow">
+            <span class="svc-icon"><i data-lucide="leaf" width="18" height="18" stroke-width="2" style="color:var(--gold-600)"></i></span>
+            <h3 class="svc-title">Prolonged Grief Disorder Therapy</h3>
+          </div>
+          <p class="svc-text">For grief that has become persistent and stuck. Columbia&rsquo;s protocol within a unique multi-disciplinary approach that includes physician medical-record review.</p>
+          <span class="svc-link">Learn more <i data-lucide="arrow-right" width="15" height="15" style="color:var(--gold-600)"></i></span>
+        </div>
+      </a>
+
+    </div>
+  </div>
+</section>
+
+<!-- ============================== EMDR CALLOUT ============================== -->
+<section class="section-deep" id="emdr" style="padding:96px 0;">
+  <div class="wrap">
+    <div class="inner-hero-grid" style="padding:0;">
+      <div class="inner-hero-photo media" style="order:1;">
+        <img src="https://images.squarespace-cdn.com/content/v1/61889ee3b4c1fc40989ecd72/57f4fb30-d65c-4aad-a1b5-d2920dd15b68/IMG_7817.jpg?format=1500w" alt="EMDR therapy session" onerror="this.classList.add('broken')" style="border-radius:var(--radius-lg);" loading="lazy"/>
+      </div>
+      <div style="order:2;">
+        <div class="eyebrow" style="margin-bottom:16px;">EMDR Therapy</div>
+        <h2 class="display" style="font-size:44px;">Process trauma without retelling it.</h2>
+        <p class="serif" style="font-size:18px;margin-top:20px;max-width:500px;">
+          Eye Movement Desensitization &amp; Reprocessing is one of the most-researched trauma treatments available. It works by activating the brain&rsquo;s natural healing process. No need to narrate every detail. Offered remotely throughout Texas.
+        </p>
+        <div style="display:flex;gap:9px;flex-wrap:wrap;margin-top:24px;">
+          <span class="badge badge-lg badge-gold-soft">PTSD &amp; trauma</span>
+          <span class="badge badge-lg badge-gold-soft">EMDRIA-certified</span>
+          <span class="badge badge-lg badge-gold-soft">Available via telehealth</span>
+        </div>
+        <div class="inner-hero-actions">
+          <a class="btn btn-lg btn-primary" href="EMDR.html">See full details
+            <i data-lucide="arrow-right" width="17" height="17" style="color:var(--on-primary)"></i></a>
+          <a class="btn btn-lg btn-ghost-canvas" href="Contact.html">Book a consult</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================== KETAMINE CALLOUT ============================== -->
+<section style="padding:96px 0;">
+  <div class="wrap">
+    <div class="inner-hero-grid" style="padding:0;">
+      <div class="inner-hero-photo media" style="order:1;">
+        <img src="https://images.squarespace-cdn.com/content/v1/61889ee3b4c1fc40989ecd72/f7401f0f-c4c6-405b-a913-56aed9ee04d3/IMG_2525.JPG?format=1500w" alt="Ketamine-assisted psychotherapy setting" onerror="this.classList.add('broken')" style="border-radius:var(--radius-lg);"  loading="lazy"/>
+      </div>
+      <div style="order:2;">
+        <div class="crumb" style="margin-bottom:18px;"><span>Services</span><span class="sep">›</span><span class="cur">Ketamine-Assisted</span></div>
+        <div class="eyebrow" style="margin-bottom:16px;">Ketamine-Assisted Psychotherapy</div>
+        <h2 class="display" style="font-size:44px;">When other paths haven&rsquo;t worked.</h2>
+        <p class="serif" style="font-size:18px;margin-top:20px;max-width:500px;">
+          A physician-administered, evidence-based approach for treatment-resistant depression, PTSD and anxiety. Ketamine infusions paired with ongoing therapy open space for elevated insight and real momentum.
+        </p>
+        <div style="display:flex;gap:9px;flex-wrap:wrap;margin-top:24px;">
+          <span class="badge badge-lg badge-gold-soft">MD-administered</span>
+          <span class="badge badge-lg badge-gold-soft">Safe since the 1960s</span>
+          <span class="badge badge-lg badge-gold-soft">Private transport</span>
+        </div>
+        <div class="inner-hero-actions">
+          <a class="btn btn-lg btn-primary" href="Ketamine.html">See full details
+            <i data-lucide="arrow-right" width="17" height="17" style="color:var(--on-primary)"></i></a>
+          <a class="btn btn-lg btn-ghost-canvas" href="Contact.html">Book a consult</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================== GRIEF CALLOUT ============================== -->
+<section class="section-deep" id="grief" style="padding:96px 0;">
+  <div class="wrap">
+    <div class="inner-hero-grid" style="padding:0;">
+      <div>
+        <div class="eyebrow" style="margin-bottom:16px;">Prolonged Grief Disorder Therapy</div>
+        <h2 class="display" style="font-size:44px;">For grief that has become stuck.</h2>
+        <p class="serif" style="font-size:18px;margin-top:20px;max-width:500px;">
+          When grief doesn&rsquo;t ease with time, it may be Prolonged Grief Disorder. It is a recognized condition with an effective, targeted treatment. We use the protocol from Columbia&rsquo;s Center for Complicated Grief within a unique multi-disciplinary approach that includes physician medical-record review.
+        </p>
+        <div style="display:flex;gap:9px;flex-wrap:wrap;margin-top:24px;">
+          <span class="badge badge-lg badge-gold-soft">Columbia-trained protocol</span>
+          <span class="badge badge-lg badge-gold-soft">Grief &gt; 12 months</span>
+          <span class="badge badge-lg badge-gold-soft">Multi-disciplinary</span>
+        </div>
+        <div class="inner-hero-actions">
+          <a class="btn btn-lg btn-primary" href="Grief.html">See full details
+            <i data-lucide="arrow-right" width="17" height="17" style="color:var(--on-primary)"></i></a>
+          <a class="btn btn-lg btn-ghost-canvas" href="Contact.html">Book a consult</a>
+        </div>
+      </div>
+      <div>
+        <div class="inner-hero-photo media">
+          <img src="https://images.squarespace-cdn.com/content/v1/61889ee3b4c1fc40989ecd72/795fd4c8-5133-4e7b-aeac-bc64e786ca4a/IMG_2636.jpg?format=1500w" alt="Quiet natural setting for grief therapy" onerror="this.classList.add('broken')" style="border-radius:var(--radius-lg);" loading="lazy"/>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================== TELEHEALTH ============================== -->
+<section id="telehealth" style="padding:96px 0;position:relative;overflow:hidden;">
+  <div class="tele-glow"></div>
+  <div class="wrap tele-grid">
+    <div class="tele-photo media">
+      <img src="https://images.squarespace-cdn.com/content/v1/61889ee3b4c1fc40989ecd72/6431c870-71f4-4125-9afd-53698991fb5c/IMG_2530.JPG?format=1500w" alt="West Austin office and lake" onerror="this.classList.add('broken')" style="border-radius:var(--radius-lg);"  loading="lazy"/>
+    </div>
+    <div class="tele-copy">
+      <div class="eyebrow" style="margin-bottom:18px;">Across Texas</div>
+      <h2 class="display" style="font-size:40px;margin-bottom:22px;">Encrypted telehealth, statewide.</h2>
+      <p class="serif" style="font-size:19px;margin-bottom:30px;">
+        Secure video sessions anywhere in Texas. For our ketamine program, private luxury transportation is provided from Austin, Dallas, Houston and San Antonio. An LGBTQ-affirming practice that welcomes all personal and religious affiliations.
+      </p>
+      <div class="tele-pills">
+        <span class="badge badge-lg badge-gold-soft">No waitlists</span>
+        <span class="badge badge-lg badge-gold-soft">Sliding scale</span>
+        <span class="badge badge-lg badge-gold-soft">Private transport</span>
+        <span class="badge badge-lg badge-gold-soft">LGBTQ-affirming</span>
+      </div>
+      <a class="btn btn-lg btn-primary" href="Contact.html">Book a free consultation
+        <i data-lucide="arrow-right" width="17" height="17" style="color:var(--on-primary)"></i></a>
+    </div>
+  </div>
+</section>
+
+<!-- ============================== FAQ ============================== -->
+<section class="section-deep" id="faq" style="padding:96px 0;" itemscope itemtype="https://schema.org/FAQPage">
+  <div class="wrap wrap-820">
+    <div class="section-head" style="margin-bottom:44px;">
+      <div class="eyebrow" style="margin-bottom:16px;">Questions</div>
+      <h2 class="display" style="font-size:38px;">Good to know</h2>
+    </div>
+    <div class="faq-list">
+      <div class="card card-sm faq-item open" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+        <div class="faq-q"><span itemprop="name">How do I know which service is right for me?</span><span class="faq-plus"><i data-lucide="plus" width="20" height="20" stroke-width="2.5" style="color:var(--gold-600)"></i></span></div>
+        <div class="faq-a" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><p itemprop="text">That&rsquo;s exactly what your <strong>free 1-hour consultation</strong> is for. We&rsquo;ll talk through what brings you in and recommend the best fit. Sometimes it&rsquo;s one modality, sometimes a combination.</p></div>
+      </div>
+      <div class="card card-sm faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+        <div class="faq-q"><span itemprop="name">Do you offer telehealth for all services?</span><span class="faq-plus"><i data-lucide="plus" width="20" height="20" stroke-width="2.5" style="color:var(--gold-600)"></i></span></div>
+        <div class="faq-a" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><p itemprop="text"><strong>EMDR and grief therapy</strong> are available via secure video statewide. Ketamine-assisted sessions take place in person; we provide <strong>private transportation</strong> from Austin, Dallas, Houston and San Antonio.</p></div>
+      </div>
+      <div class="card card-sm faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+        <div class="faq-q"><span itemprop="name">What does care cost? Is there a sliding scale?</span><span class="faq-plus"><i data-lucide="plus" width="20" height="20" stroke-width="2.5" style="color:var(--gold-600)"></i></span></div>
+        <div class="faq-a" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><p itemprop="text">Rates are discussed in your <strong>free consultation,</strong> and a <strong>sliding scale</strong> is available. We&rsquo;ll also explain the <strong>Good Faith Estimate</strong> and No Surprises Act so there are no surprises.</p></div>
+      </div>
+      <div class="card card-sm faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+        <div class="faq-q"><span itemprop="name">How quickly can I start?</span><span class="faq-plus"><i data-lucide="plus" width="20" height="20" stroke-width="2.5" style="color:var(--gold-600)"></i></span></div>
+        <div class="faq-a" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><p itemprop="text"><strong>We have no waitlist.</strong> Most clients begin <strong>within days</strong> of their consultation. Reach out and we&rsquo;ll find a time that works for you.</p></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================== FINAL CTA ============================== -->
+</article>
+
+</article>
+
+<section class="cta">
+  <div class="cta-glow"></div>
+  <div class="wrap" style="position:relative;">
+    <div class="eyebrow" style="margin-bottom:20px;">Take the first step</div>
+    <h2 class="display" style="font-size:68px;max-width:820px;margin:0 auto 22px;">Start with a free hour consultation</h2>
+    <p class="serif" style="font-size:20px;max-width:540px;margin:0 auto 38px;">
+      We&rsquo;ll talk through what brings you in, answer questions, and find the right fit. Rates and sliding scale are discussed in your consult.
+    </p>
+    <div class="cta-actions">
+      <a class="btn btn-lg btn-primary" href="Contact.html">Book my free hour
+        <i data-lucide="arrow-right" width="18" height="18" style="color:var(--on-primary)"></i></a>
+      <a class="cta-phone" href="tel:5126661184">
+        <i data-lucide="phone" width="17" height="17" style="color:var(--color-primary)"></i> 512·666·1184
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- ============================== FOOTER ============================== -->
+
+<!-- ============================== NEWSLETTER ============================== -->
+<section class="newsletter-section">
+  <div class="wrap">
+    <div class="newsletter-grid">
+      <div class="newsletter-copy">
+        <h2>Stay informed. No noise.</h2>
+        <p>Monthly insights on trauma therapy, emerging treatments, and mental health research. Written for people who want clinical depth without the jargon. Unsubscribe any time.</p>
+      </div>
+      <div class="newsletter-form-wrap">
+        <form class="newsletter-form" id="newsletter-form" novalidate>
+          <div class="newsletter-input-row">
+            <input type="email" name="email" placeholder="your@email.com" required aria-label="Email address" />
+            <button type="submit" class="btn btn-primary">Subscribe
+              <i data-lucide="arrow-right" width="15" height="15" style="color:var(--on-primary)"></i></button>
+          </div>
+          <label class="newsletter-check">
+            <input type="checkbox" name="sms" value="yes" />
+            <span>Also send me occasional text updates (optional)</span>
+          </label>
+        </form>
+        <div class="newsletter-success" id="newsletter-success" aria-live="polite">
+          <i data-lucide="check-circle" width="22" height="22" style="color:var(--forest-600)"></i>
+          <span>You&rsquo;re on the list. Thank you.</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<footer class="footer">
+  <div class="footer-top">
+    <div>
+      <div style="display:flex;align-items:center;gap:11px;">
+        <span class="logo-mark"><i data-lucide="waves" width="17" height="17" stroke-width="2" style="color:var(--bg-canvas)"></i></span>
+        <span class="logo-name">Courtney Kurtz, LPC-A</span>
+      </div>
+      <p class="footer-desc">Counseling, EMDR, IFS &amp; ketamine-assisted psychotherapy. In Austin and across Texas via telehealth.</p>
+      <div class="footer-contact">512·666·1184<br />info@lakeaustinpsychotherapy.com<br />1504 Wood Acre Ln, Austin TX 78733</div>
+    </div>
+    <div>
+      <div class="footer-col-label">Services</div>
+      <a class="footer-link" href="EMDR.html">EMDR Therapy</a>
+      <a class="footer-link" href="Ketamine.html">Ketamine-Assisted</a>
+      <a class="footer-link" href="Grief.html">Prolonged Grief</a>
+      <a class="footer-link" href="Telehealth.html">Telehealth</a>
+      <a class="footer-link" href="FAQ.html">FAQ</a>
+    </div>
+    <div>
+      <div class="footer-col-label">What We Treat</div>
+      <a class="footer-link" href="Anxiety.html">Anxiety</a>
+      <a class="footer-link" href="Anxiety.html">Depression</a>
+      <a class="footer-link" href="Anxiety.html">PTSD / Trauma</a>
+      <a class="footer-link" href="Anxiety.html">Grief</a>
+      <a class="footer-link" href="Anxiety.html">Alcohol Use Disorder</a>
+    </div>
+    <div>
+      <div class="footer-col-label">Practice</div>
+      <a class="footer-link" href="Team.html">About Mary Moore</a>
+      <a class="footer-link" href="Team.html">About</a>
+      <a class="footer-link" href="blog.html">Blog</a>
+      <a class="footer-link" href="Team.html">Press &amp; Media</a>
+      <a class="footer-link" href="Contact.html">Contact</a>
+      <a class="footer-link" href="Contact.html">Book a Consultation</a>
+    </div>
+  </div>
+
+  <div class="footer-crisis-wrap">
+    <div class="footer-crisis">
+      <i data-lucide="heart-pulse" width="18" height="18" style="color:var(--critical-500)"></i>
+      <span>In crisis or considering suicide? Call <strong>988</strong>, the Austin line <strong>512·472·4357 (HELP)</strong>, or go to your nearest emergency room.</span>
+    </div>
+  </div>
+
+  <div class="footer-bottom-wrap">
+    <div class="footer-bottom">
+      <span>© 2026 Courtney Kurtz, LPC-A · TX LPC-A #98764</span>
+      <span style="display:flex;gap:20px;">
+        <a href="#">Privacy</a><a href="#">Good Faith Estimate</a><a href="#">Records Request</a>
+      </span>
+    </div>
+  </div>
+</footer>
+
+<script src="site.js" defer></script>
+<script>
+(function(){
+  var form = document.getElementById('newsletter-form');
+  var success = document.getElementById('newsletter-success');
+  if (form && success) {
+    form.addEventListener('submit', function(e){
+      e.preventDefault();
+      form.style.display = 'none';
+      success.style.display = 'flex';
+    });
+  }
+})();
+</script>
+</body>
+</html>

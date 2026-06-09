@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Mental Health Blog | Courtney Kurtz, LPC-A</title>
-<meta name="description" content="Evidence-based insights on EMDR therapy, ketamine-assisted psychotherapy, and prolonged grief disorder from Courtney Kurtz, LPC-A, counselor in Austin, Texas." />
+<title>Blog | Lake Austin Psychotherapy</title>
+<meta name="description" content="Evidence-based insights on EMDR therapy, ketamine-assisted psychotherapy, prolonged grief disorder, and mental health from Mary K. Moore, LPC, EMDRIA Certified Therapist." />
 <link rel="canonical" href="https://www.lakeaustinpsychotherapy.com/blog.html" />
 
 <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -17,12 +17,12 @@
 {
   "@context": "https://schema.org",
   "@type": "Blog",
-  "name": "Courtney Kurtz, LPC-A | Mental Health Blog",
-  "description": "Evidence-based insights on trauma therapy, EMDR, ketamine-assisted psychotherapy, and grief from Courtney Kurtz, LPC-A.",
+  "name": "Lake Austin Psychotherapy Blog",
+  "description": "Evidence-based insights on trauma therapy, EMDR, ketamine-assisted psychotherapy, and grief from Mary K. Moore, LPC.",
   "url": "https://www.lakeaustinpsychotherapy.com/blog.html",
   "publisher": {
     "@type": "MedicalBusiness",
-    "name": "Courtney Kurtz, LPC-A",
+    "name": "Lake Austin Psychotherapy",
     "url": "https://www.lakeaustinpsychotherapy.com"
   },
   "blogPost": [
@@ -31,21 +31,21 @@
       "headline": "EMDR vs. Talk Therapy: Why You Don't Have to Relive Your Trauma to Heal",
       "url": "https://www.lakeaustinpsychotherapy.com/blog/emdr-vs-talk-therapy.html",
       "datePublished": "2025-10-01",
-      "author": { "@type": "Person", "name": "Courtney Kurtz, LPC-A" }
+      "author": { "@type": "Person", "name": "Mary K. Moore, LPC" }
     },
     {
       "@type": "BlogPosting",
       "headline": "Physician-Administered IV Ketamine vs. At-Home Ketamine: What's the Clinical Difference?",
       "url": "https://www.lakeaustinpsychotherapy.com/blog/iv-ketamine-vs-at-home.html",
       "datePublished": "2025-10-15",
-      "author": { "@type": "Person", "name": "Courtney Kurtz, LPC-A" }
+      "author": { "@type": "Person", "name": "Mary K. Moore, LPC" }
     },
     {
       "@type": "BlogPosting",
       "headline": "When Does Grief Become a Disorder? Understanding Prolonged Grief Disorder",
       "url": "https://www.lakeaustinpsychotherapy.com/blog/prolonged-grief-disorder.html",
       "datePublished": "2025-11-01",
-      "author": { "@type": "Person", "name": "Courtney Kurtz, LPC-A" }
+      "author": { "@type": "Person", "name": "Mary K. Moore, LPC" }
     }
   ]
 }
@@ -156,7 +156,7 @@
   <div class="wrap wrap-820">
     <p class="eyebrow">From the Practice</p>
     <h1>Evidence-Based Insights on Mental Health &amp; Therapy</h1>
-    <p class="hero-sub">Written by Courtney Kurtz, LPC-A. EMDRIA Trained, IFS-informed, KAP therapist in Austin, Texas.</p>
+    <p class="hero-sub">Written by Mary K. Moore, LPC, EMDRIA Certified Therapist. Clinical depth without the jargon.</p>
   </div>
 </section>
 
@@ -275,7 +275,7 @@
     </div>
     <div>
       <div class="footer-col-label">Practice</div>
-      <a class="footer-link" href="Team.html">About Courtney</a>
+      <a class="footer-link" href="Team.html">About Mary Moore</a>
       <a class="footer-link" href="Team.html">About</a>
       <a class="footer-link" href="blog.html">Blog</a>
       <a class="footer-link" href="Contact.html">Contact</a>
@@ -290,7 +290,7 @@
   </div>
   <div class="footer-bottom-wrap">
     <div class="footer-bottom">
-      <span>&copy; 2026 Courtney Kurtz, LPC-A &middot; TX LPC-A #98764</span>
+      <span>&copy; 2026 Lake Austin Psychotherapy PLLC &middot; TX SOS Filing #804786292copy; 2026 Courtney Kurtz, LPC-A &copy; 2026 Lake Austin Psychotherapy PLLC &middot; TX SOS Filing #804786292middot; TX LPC-A #98764</span>
       <span>Not a crisis service &middot; <a href="Contact.html">Contact</a></span>
     </div>
   </div>

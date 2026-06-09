@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Prolonged Grief Disorder Therapy | Courtney Kurtz, LPC-A</title>
-<meta name="description" content="Columbia-trained treatment for Prolonged Grief Disorder. 70% efficacy rate. Evidence-based protocol for grief that has become persistent and stuck. Austin and telehealth across Texas." />
+<title>EMDR Therapy Austin | Lake Austin Psychotherapy</title>
+<meta name="description" content="EMDRIA-Certified EMDR therapy for trauma, PTSD, anxiety, and grief. Available in-person in Austin and via secure telehealth across Texas. No need to relive every detail." />
 
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -12,14 +12,14 @@
 <link rel="stylesheet" href="styles.css" />
 <script src="https://unpkg.com/lucide@0.460.0/dist/umd/lucide.min.js"></script>
 
-<link rel="canonical" href="https://www.lakeaustinpsychotherapy.com/Grief.html" />
+<link rel="canonical" href="https://www.lakeaustinpsychotherapy.com/EMDR.html" />
 <link rel="author" href="https://www.lakeaustinpsychotherapy.com/Team.html" />
 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "MedicalBusiness",
-  "name": "Courtney Kurtz, LPC-A",
+  "name": "Lake Austin Psychotherapy",
   "url": "https://www.lakeaustinpsychotherapy.com",
   "telephone": "512-666-1184",
   "email": "info@lakeaustinpsychotherapy.com",
@@ -56,7 +56,7 @@
   "itemListElement": [
     { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.lakeaustinpsychotherapy.com/" },
     { "@type": "ListItem", "position": 2, "name": "Services", "item": "https://www.lakeaustinpsychotherapy.com/Services.html" },
-    { "@type": "ListItem", "position": 3, "name": "Prolonged Grief Disorder Therapy", "item": "https://www.lakeaustinpsychotherapy.com/Grief.html" }
+    { "@type": "ListItem", "position": 3, "name": "EMDR Therapy", "item": "https://www.lakeaustinpsychotherapy.com/EMDR.html" }
   ]
 }
 </script>
@@ -68,34 +68,34 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What is Prolonged Grief Disorder?",
+      "name": "What is EMDR therapy?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<strong>Prolonged Grief Disorder (PGD)</strong> is a DSM-5-TR diagnosis characterized by grief that persists at acute, distressing intensity for more than 12 months following a loss, with significant impairment in daily functioning. It affects roughly <strong>10% of bereaved people</strong> and does not resolve with time or willpower alone."
+        "text": "<strong>EMDR (Eye Movement Desensitization and Reprocessing)</strong> is an evidence-based therapy that uses bilateral stimulation to help the brain reprocess traumatic memories. Unlike talk therapy, it does not require detailed verbal narration of what happened. The WHO and American Psychological Association both recognize it as a <strong>first-line treatment for PTSD.</strong>"
       }
     },
     {
       "@type": "Question",
-      "name": "How is Prolonged Grief Disorder different from normal grief?",
+      "name": "Do I have to relive my trauma during EMDR?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Normal grief gradually softens over months to a year or more, comes in waves, and allows the person to function and experience moments of joy. Prolonged Grief Disorder remains at acute intensity past 12 months with little softening, significantly impairs daily functioning, and leaves the person unable to access positive memories without overwhelming pain."
+        "text": "<strong>No.</strong> You hold a memory in mind while following bilateral stimulation. You do not have to describe it in detail or talk through what happened. Processing occurs internally, which is why many people find EMDR easier to tolerate than traditional trauma-focused talk therapy."
       }
     },
     {
       "@type": "Question",
-      "name": "What is the treatment for Prolonged Grief Disorder?",
+      "name": "How many sessions does EMDR take?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The evidence-based treatment is the Prolonged Grief Disorder therapy protocol developed at Columbia University's Center for Complicated Grief by Dr. Katherine Shear. It has a <strong>70% efficacy rate</strong> and works by addressing the neurobiological mechanism keeping grief stuck, not by offering support while grief runs its course."
+        "text": "Single-incident trauma often resolves in <strong>6 to 12 sessions.</strong> Complex or developmental trauma requires more. Most clients notice meaningful change within the first few processing sessions. We discuss realistic expectations during your <strong>free consultation.</strong>"
       }
     },
     {
       "@type": "Question",
-      "name": "Is this therapy available via telehealth?",
+      "name": "Is EMDR available via telehealth?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<strong>Yes.</strong> Prolonged Grief Disorder therapy is available via secure video <strong>throughout Texas.</strong> The protocol adapts fully to telehealth and does not require in-person attendance."
+        "text": "<strong>Yes.</strong> EMDR is fully available via secure video <strong>throughout Texas.</strong> Online bilateral stimulation tools work effectively, and the research on telehealth EMDR shows outcomes comparable to in-person."
       }
     }
   ]
@@ -198,15 +198,15 @@
   <div class="inner-hero-glow"></div>
   <div class="inner-hero-grid">
     <div>
-      <div class="crumb"><span>Home</span><span class="sep">›</span><a href="Services.html" style="color:inherit;text-decoration:none;">Services</a><span class="sep">›</span><span class="cur">Prolonged Grief</span></div>
+      <div class="crumb"><span>Home</span><span class="sep">›</span><a href="Services.html" style="color:inherit;text-decoration:none;">Services</a><span class="sep">›</span><span class="cur">EMDR Therapy</span></div>
       <div class="eyebrow" style="margin-bottom:16px;">Service</div>
-      <h1 style="font-size:52px;">For grief that has become stuck.</h1>
+      <h1 style="font-size:52px;">Process trauma without retelling it.</h1>
       <p class="serif" style="font-size:19px;margin-top:22px;max-width:520px;">
-        When grief doesn&rsquo;t ease with time, it may be Prolonged Grief Disorder. It is a recognized condition with a targeted, effective treatment. I use the Columbia protocol within a <em>multi-disciplinary approach that includes physician medical-record review.</em>
+        Eye Movement Desensitization &amp; Reprocessing is one of the most-researched trauma treatments available. It works by activating the brain&rsquo;s natural healing process. <em>No need to narrate every detail.</em>
       </p>
       <div class="inner-hero-badges">
-        <span class="badge badge-lg badge-gold-soft">Columbia-trained</span>
-        <span class="badge badge-lg badge-gold-soft">70% efficacy rate</span>
+        <span class="badge badge-lg badge-gold-soft">EMDRIA-Certified</span>
+        <span class="badge badge-lg badge-gold-soft">WHO first-line treatment</span>
         <span class="badge badge-lg badge-gold-soft">Telehealth statewide</span>
         <span class="badge badge-lg badge-gold-soft">No waitlists</span>
       </div>
@@ -218,67 +218,17 @@
       </div>
     </div>
     <div class="inner-hero-photo media">
-      <img src="https://images.squarespace-cdn.com/content/v1/61889ee3b4c1fc40989ecd72/795fd4c8-5133-4e7b-aeac-bc64e786ca4a/IMG_2636.jpg?format=1500w" alt="Quiet natural setting for grief therapy" onerror="this.classList.add('broken')" style="border-radius:var(--radius-lg);" loading="lazy"/>
+      <img src="https://images.squarespace-cdn.com/content/v1/61889ee3b4c1fc40989ecd72/57f4fb30-d65c-4aad-a1b5-d2920dd15b68/IMG_7817.jpg?format=1500w" alt="Courtney Kurtz, LPC-A — counseling in Austin, Texas"/>
     </div>
-  </div>
-</section>
-
-<!-- ============================== NORMAL VS PGD ============================== -->
-<section class="section-deep" style="padding:96px 0;">
-  <div class="wrap wrap-820">
-    <div class="section-head" style="margin-bottom:44px;">
-      <div class="eyebrow" style="margin-bottom:16px;">Understanding the difference</div>
-      <h2 class="display" style="font-size:38px;">Normal grief vs. Prolonged Grief Disorder</h2>
-    </div>
-    <div class="card card-sm" style="overflow:hidden;">
-      <table style="width:100%;border-collapse:collapse;font-family:var(--font-body);font-size:14.5px;">
-        <thead>
-          <tr style="background:var(--forest-800);color:var(--bg-canvas);">
-            <th style="padding:14px 20px;text-align:left;font-weight:600;"></th>
-            <th style="padding:14px 20px;text-align:left;font-weight:600;">Normal grief</th>
-            <th style="padding:14px 20px;text-align:left;font-weight:600;">Prolonged Grief Disorder</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr style="border-bottom:1px solid var(--border-on-cream);">
-            <td style="padding:13px 20px;color:var(--text-on-surface-muted);font-weight:500;">Duration</td>
-            <td style="padding:13px 20px;color:var(--text-on-surface);">Gradually softens over months to a year</td>
-            <td style="padding:13px 20px;color:var(--text-on-surface);">Remains at acute intensity past 12 months</td>
-          </tr>
-          <tr style="border-bottom:1px solid var(--border-on-cream);background:var(--surface-card);">
-            <td style="padding:13px 20px;color:var(--text-on-surface-muted);font-weight:500;">Daily functioning</td>
-            <td style="padding:13px 20px;color:var(--text-on-surface);">Mostly intact, with difficult periods</td>
-            <td style="padding:13px 20px;color:var(--text-on-surface);">Significantly impaired</td>
-          </tr>
-          <tr style="border-bottom:1px solid var(--border-on-cream);">
-            <td style="padding:13px 20px;color:var(--text-on-surface-muted);font-weight:500;">Positive memories</td>
-            <td style="padding:13px 20px;color:var(--text-on-surface);">Can be accessed alongside sadness</td>
-            <td style="padding:13px 20px;color:var(--text-on-surface);">Inaccessible or bring only pain</td>
-          </tr>
-          <tr style="border-bottom:1px solid var(--border-on-cream);background:var(--surface-card);">
-            <td style="padding:13px 20px;color:var(--text-on-surface-muted);font-weight:500;">Movement over time</td>
-            <td style="padding:13px 20px;color:var(--text-on-surface);">Comes in waves, overall softening</td>
-            <td style="padding:13px 20px;color:var(--text-on-surface);">Stuck, little change over months</td>
-          </tr>
-          <tr>
-            <td style="padding:13px 20px;color:var(--text-on-surface-muted);font-weight:500;">Does time alone help</td>
-            <td style="padding:13px 20px;color:var(--text-on-surface);">Yes, for most</td>
-            <td style="padding:13px 20px;color:var(--forest-700);font-weight:600;">No. Targeted treatment is needed.</td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
-    <p class="serif" style="font-size:16px;color:var(--text-on-surface-muted);margin-top:20px;text-align:center;">PGD affects roughly <strong>10% of bereaved people</strong> and is a recognized DSM-5-TR diagnosis.</p>
   </div>
 </section>
 
 <!-- ============================== HOW IT WORKS ============================== -->
-<section style="padding:96px 0;">
+<section class="section-deep" style="padding:96px 0;">
   <div class="wrap">
     <div class="section-head" style="max-width:600px;margin:0 auto 52px;">
-      <div class="eyebrow" style="margin-bottom:16px;">The protocol</div>
-      <h2 class="display" style="font-size:40px;">Evidence-based. Not just supportive listening.</h2>
-      <p class="serif" style="font-size:17px;margin-top:20px;color:var(--text-on-surface-muted);">The Columbia PGD protocol addresses the neurobiological mechanism keeping grief stuck. It is a structured course of treatment, not open-ended support.</p>
+      <div class="eyebrow" style="margin-bottom:16px;">How it works</div>
+      <h2 class="display" style="font-size:40px;">The brain already knows how to heal. EMDR gets out of its way.</h2>
     </div>
     <div class="steps-grid">
       <div class="card card-sm step-card">
@@ -286,56 +236,107 @@
           <span class="step-icon"><i data-lucide="clipboard-list" width="20" height="20" stroke-width="2" style="color:var(--gold-600)"></i></span>
           <span class="step-num">01</span>
         </div>
-        <h3 class="step-title">Assessment &amp; diagnosis</h3>
-        <p class="step-text">We establish whether grief meets PGD criteria, review medical records with our physician consultant, and set individualized treatment goals.</p>
+        <h3 class="step-title">Assessment &amp; preparation</h3>
+        <p class="step-text">We map the memories and triggers to address, build stabilization resources, and ensure you have the tools to stay regulated between sessions.</p>
       </div>
       <div class="card card-sm step-card">
         <div class="step-top">
-          <span class="step-icon"><i data-lucide="activity" width="20" height="20" stroke-width="2" style="color:var(--gold-600)"></i></span>
+          <span class="step-icon"><i data-lucide="waves" width="20" height="20" stroke-width="2" style="color:var(--gold-600)"></i></span>
           <span class="step-num">02</span>
         </div>
-        <h3 class="step-title">Grief monitoring</h3>
-        <p class="step-text">Structured tracking of grief intensity and daily functioning creates a clear baseline and makes progress visible over the course of treatment.</p>
+        <h3 class="step-title">Bilateral stimulation sets</h3>
+        <p class="step-text">You hold a targeted memory in mind while following guided eye movements, taps, or tones. The bilateral stimulation activates the same process the brain uses during REM sleep to consolidate and neutralize distressing material.</p>
       </div>
       <div class="card card-sm step-card">
         <div class="step-top">
           <span class="step-icon"><i data-lucide="leaf" width="20" height="20" stroke-width="2" style="color:var(--gold-600)"></i></span>
           <span class="step-num">03</span>
         </div>
-        <h3 class="step-title">Loss focus &amp; restoration</h3>
-        <p class="step-text">Alternating between loss-focused work (processing the reality of the death) and restoration focus (rebuilding identity and life goals) breaks the pattern that keeps grief stuck.</p>
+        <h3 class="step-title">Integration</h3>
+        <p class="step-text">As memories reprocess, their emotional charge diminishes and new, adaptive beliefs take hold. We close each session carefully and continue building on progress in subsequent work.</p>
       </div>
     </div>
   </div>
 </section>
 
-<!-- ============================== WHO IT HELPS + CLINICIAN ============================== -->
-<section class="section-deep" style="padding:96px 0;">
+<!-- ============================== WHAT IT HELPS ============================== -->
+<section style="padding:96px 0;">
   <div class="wrap helps-grid">
     <div>
-      <div class="eyebrow" style="margin-bottom:18px;">Who it helps</div>
-      <h2 class="display" style="font-size:38px;margin-bottom:22px;">Signs your grief may be Prolonged Grief Disorder.</h2>
+      <div class="eyebrow" style="margin-bottom:18px;">What it helps with</div>
+      <h2 class="display" style="font-size:38px;margin-bottom:22px;">Not just PTSD. EMDR reaches further than most people realize.</h2>
+      <p class="serif" style="font-size:17px;margin-bottom:28px;max-width:460px;">
+        EMDR was originally developed for PTSD, where it has the strongest evidence. The research has since extended to anxiety, depression, grief, phobias, and performance concerns.
+      </p>
       <div class="creds-list">
-        <div class="cred cred--canvas"><span class="cred-check"><i data-lucide="check" width="15" height="15" stroke-width="3" style="color:var(--on-primary)"></i></span><span>Loss of a loved one more than 12 months ago</span></div>
-        <div class="cred cred--canvas"><span class="cred-check"><i data-lucide="check" width="15" height="15" stroke-width="3" style="color:var(--on-primary)"></i></span><span>Intense longing or yearning that hasn&rsquo;t softened</span></div>
-        <div class="cred cred--canvas"><span class="cred-check"><i data-lucide="check" width="15" height="15" stroke-width="3" style="color:var(--on-primary)"></i></span><span>Difficulty accepting the death as real</span></div>
-        <div class="cred cred--canvas"><span class="cred-check"><i data-lucide="check" width="15" height="15" stroke-width="3" style="color:var(--on-primary)"></i></span><span>Feeling that life is meaningless without the person</span></div>
-        <div class="cred cred--canvas"><span class="cred-check"><i data-lucide="check" width="15" height="15" stroke-width="3" style="color:var(--on-primary)"></i></span><span>Disrupted sense of identity or future</span></div>
-        <div class="cred cred--canvas"><span class="cred-check"><i data-lucide="check" width="15" height="15" stroke-width="3" style="color:var(--on-primary)"></i></span><span>Unable to engage in normal activities or relationships</span></div>
+        <div class="cred cred--canvas"><span class="cred-check"><i data-lucide="check" width="15" height="15" stroke-width="3" style="color:var(--on-primary)"></i></span><span>PTSD &amp; single-incident trauma</span></div>
+        <div class="cred cred--canvas"><span class="cred-check"><i data-lucide="check" width="15" height="15" stroke-width="3" style="color:var(--on-primary)"></i></span><span>Complex &amp; developmental trauma</span></div>
+        <div class="cred cred--canvas"><span class="cred-check"><i data-lucide="check" width="15" height="15" stroke-width="3" style="color:var(--on-primary)"></i></span><span>Anxiety &amp; panic disorder</span></div>
+        <div class="cred cred--canvas"><span class="cred-check"><i data-lucide="check" width="15" height="15" stroke-width="3" style="color:var(--on-primary)"></i></span><span>Depression</span></div>
+        <div class="cred cred--canvas"><span class="cred-check"><i data-lucide="check" width="15" height="15" stroke-width="3" style="color:var(--on-primary)"></i></span><span>Grief &amp; complicated loss</span></div>
+        <div class="cred cred--canvas"><span class="cred-check"><i data-lucide="check" width="15" height="15" stroke-width="3" style="color:var(--on-primary)"></i></span><span>Alcohol use disorder</span></div>
       </div>
     </div>
     <article class="card card-md doc-card">
       <div class="doc-photo media">
-        <img src="https://images.squarespace-cdn.com/content/v1/61889ee3b4c1fc40989ecd72/2a0255cb-5e6a-44e1-b5c5-8b27117b08e1/IMG_7691.jpeg?format=1000w" alt="Courtney Kurtz, LPC-A, grief therapist in Austin, Texas" onerror="this.classList.add('broken')" loading="lazy"/>
+        <img src="https://images.squarespace-cdn.com/content/v1/61889ee3b4c1fc40989ecd72/31844362-dc84-4d9f-9b24-b319460d7c19/0K6A0663.jpg?format=1000w" alt="Mary K. Moore, LPC, EMDRIA-Certified Therapist" onerror="this.classList.add('broken')"  loading="lazy"/>
       </div>
       <div class="doc-body">
-        <span class="badge badge-sm badge-positive-solid">Columbia-Protocol Trained</span>
-        <h3 class="doc-name">Courtney Kurtz, LPC-A</h3>
-        <div class="doc-meta">Licensed Counselor &middot; TX LPC-A #98764 &middot; Columbia PGD Protocol</div>
-        <p class="doc-text">I completed advanced training in the Columbia University Prolonged Grief Disorder protocol, the gold-standard treatment developed by Dr. Katherine Shear. I bring this alongside my EMDR and IFS training into work with clients navigating complicated loss.</p>
-        <a class="goldlink" href="Team.html" style="margin-top:12px;display:inline-flex;align-items:center;gap:6px;">More about me <i data-lucide="arrow-right" width="14" height="14" style="color:var(--gold-600)"></i></a>
+        <span class="badge badge-sm badge-gold-solid">EMDRIA-Certified</span>
+        <h3 class="doc-name">Mary K. Moore, LPC</h3>
+        <div class="doc-meta">Clinical Director &middot; EMDRIA Certified Therapist</div>
+        <p class="doc-text">Mary holds full EMDRIA certification, among the highest credentials in EMDR practice. Certification requires 20+ hours of consultation with an EMDRIA-approved consultant, 50+ EMDR sessions across 25 or more clients, and ongoing continuing education.</p>
+        <a class="goldlink" href="Team.html" style="margin-top:12px;display:inline-flex;align-items:center;gap:6px;">Full bio <i data-lucide="arrow-right" width="14" height="14" style="color:var(--gold-600)"></i></a>
       </div>
     </article>
+  </div>
+</section>
+
+<!-- ============================== EMDR VS TALK ============================== -->
+<section class="section-deep" style="padding:96px 0;">
+  <div class="wrap wrap-820">
+    <div class="section-head" style="margin-bottom:44px;">
+      <div class="eyebrow" style="margin-bottom:16px;">How it compares</div>
+      <h2 class="display" style="font-size:38px;">EMDR vs. talk therapy</h2>
+    </div>
+    <div class="card card-sm" style="overflow:hidden;">
+      <table style="width:100%;border-collapse:collapse;font-family:var(--font-body);font-size:14.5px;">
+        <thead>
+          <tr style="background:var(--forest-800);color:var(--bg-canvas);">
+            <th style="padding:14px 20px;text-align:left;font-weight:600;"></th>
+            <th style="padding:14px 20px;text-align:left;font-weight:600;">EMDR</th>
+            <th style="padding:14px 20px;text-align:left;font-weight:600;">Talk Therapy</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr style="border-bottom:1px solid var(--border-on-cream);">
+            <td style="padding:13px 20px;color:var(--text-on-surface-muted);font-weight:500;">Requires narrating trauma</td>
+            <td style="padding:13px 20px;color:var(--forest-700);font-weight:600;">No</td>
+            <td style="padding:13px 20px;color:var(--text-on-surface-muted);">Usually yes</td>
+          </tr>
+          <tr style="border-bottom:1px solid var(--border-on-cream);background:var(--surface-card);">
+            <td style="padding:13px 20px;color:var(--text-on-surface-muted);font-weight:500;">Target of processing</td>
+            <td style="padding:13px 20px;color:var(--text-on-surface);">Memory networks directly</td>
+            <td style="padding:13px 20px;color:var(--text-on-surface-muted);">Thoughts and behavior</td>
+          </tr>
+          <tr style="border-bottom:1px solid var(--border-on-cream);">
+            <td style="padding:13px 20px;color:var(--text-on-surface-muted);font-weight:500;">Speed for single-incident PTSD</td>
+            <td style="padding:13px 20px;color:var(--forest-700);font-weight:600;">6 to 12 sessions (typical)</td>
+            <td style="padding:13px 20px;color:var(--text-on-surface-muted);">Months to years</td>
+          </tr>
+          <tr style="border-bottom:1px solid var(--border-on-cream);background:var(--surface-card);">
+            <td style="padding:13px 20px;color:var(--text-on-surface-muted);font-weight:500;">Available via telehealth</td>
+            <td style="padding:13px 20px;color:var(--forest-700);font-weight:600;">Yes, statewide</td>
+            <td style="padding:13px 20px;color:var(--text-on-surface-muted);">Yes</td>
+          </tr>
+          <tr>
+            <td style="padding:13px 20px;color:var(--text-on-surface-muted);font-weight:500;">WHO recommendation for PTSD</td>
+            <td style="padding:13px 20px;color:var(--forest-700);font-weight:600;">First-line</td>
+            <td style="padding:13px 20px;color:var(--text-on-surface-muted);">Varies by modality</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
   </div>
 </section>
 
@@ -348,20 +349,20 @@
     </div>
     <div class="faq-list">
       <div class="card card-sm faq-item open" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-        <div class="faq-q"><span itemprop="name">What is Prolonged Grief Disorder?</span><span class="faq-plus"><i data-lucide="plus" width="20" height="20" stroke-width="2.5" style="color:var(--gold-600)"></i></span></div>
-        <div class="faq-a" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><p itemprop="text"><strong>Prolonged Grief Disorder (PGD)</strong> is a DSM-5-TR diagnosis characterized by grief that persists at acute, distressing intensity for more than 12 months following a loss, with significant impairment in daily functioning. It affects roughly <strong>10% of bereaved people</strong> and does not resolve with time or willpower alone.</p></div>
+        <div class="faq-q"><span itemprop="name">What is EMDR therapy?</span><span class="faq-plus"><i data-lucide="plus" width="20" height="20" stroke-width="2.5" style="color:var(--gold-600)"></i></span></div>
+        <div class="faq-a" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><p itemprop="text"><strong>EMDR (Eye Movement Desensitization and Reprocessing)</strong> is an evidence-based therapy that uses bilateral stimulation to help the brain reprocess traumatic memories. Unlike talk therapy, it does not require detailed verbal narration of what happened. The WHO and American Psychological Association both recognize it as a <strong>first-line treatment for PTSD.</strong></p></div>
       </div>
       <div class="card card-sm faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-        <div class="faq-q"><span itemprop="name">How is Prolonged Grief Disorder different from normal grief?</span><span class="faq-plus"><i data-lucide="plus" width="20" height="20" stroke-width="2.5" style="color:var(--gold-600)"></i></span></div>
-        <div class="faq-a" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><p itemprop="text">Normal grief gradually softens over months to a year or more, comes in waves, and allows the person to function and experience moments of joy. Prolonged Grief Disorder remains at acute intensity past 12 months with little softening, significantly impairs daily functioning, and leaves the person unable to access positive memories without overwhelming pain.</p></div>
+        <div class="faq-q"><span itemprop="name">Do I have to relive my trauma during EMDR?</span><span class="faq-plus"><i data-lucide="plus" width="20" height="20" stroke-width="2.5" style="color:var(--gold-600)"></i></span></div>
+        <div class="faq-a" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><p itemprop="text"><strong>No.</strong> You hold a memory in mind while following bilateral stimulation. You do not have to describe it in detail or talk through what happened. Processing occurs internally, which is why many people find EMDR easier to tolerate than traditional trauma-focused talk therapy.</p></div>
       </div>
       <div class="card card-sm faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-        <div class="faq-q"><span itemprop="name">What is the treatment for Prolonged Grief Disorder?</span><span class="faq-plus"><i data-lucide="plus" width="20" height="20" stroke-width="2.5" style="color:var(--gold-600)"></i></span></div>
-        <div class="faq-a" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><p itemprop="text">The evidence-based treatment is the Prolonged Grief Disorder therapy protocol developed at Columbia University&rsquo;s Center for Complicated Grief by Dr. Katherine Shear. It has a <strong>70% efficacy rate</strong> and works by addressing the neurobiological mechanism keeping grief stuck, not by offering support while grief runs its course.</p></div>
+        <div class="faq-q"><span itemprop="name">How many sessions does EMDR take?</span><span class="faq-plus"><i data-lucide="plus" width="20" height="20" stroke-width="2.5" style="color:var(--gold-600)"></i></span></div>
+        <div class="faq-a" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><p itemprop="text">Single-incident trauma often resolves in <strong>6 to 12 sessions.</strong> Complex or developmental trauma requires more. Most clients notice meaningful change within the first few processing sessions. We discuss realistic expectations during your <strong>free consultation.</strong></p></div>
       </div>
       <div class="card card-sm faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-        <div class="faq-q"><span itemprop="name">Is this therapy available via telehealth?</span><span class="faq-plus"><i data-lucide="plus" width="20" height="20" stroke-width="2.5" style="color:var(--gold-600)"></i></span></div>
-        <div class="faq-a" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><p itemprop="text"><strong>Yes.</strong> Prolonged Grief Disorder therapy is available via secure video <strong>throughout Texas.</strong> The protocol adapts fully to telehealth and does not require in-person attendance.</p></div>
+        <div class="faq-q"><span itemprop="name">Is EMDR available via telehealth?</span><span class="faq-plus"><i data-lucide="plus" width="20" height="20" stroke-width="2.5" style="color:var(--gold-600)"></i></span></div>
+        <div class="faq-a" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><p itemprop="text"><strong>Yes.</strong> EMDR is fully available via secure video <strong>throughout Texas.</strong> Online bilateral stimulation tools work effectively, and the research on telehealth EMDR shows outcomes comparable to in-person.</p></div>
       </div>
     </div>
   </div>
@@ -375,16 +376,6 @@
       <h2 class="display" style="font-size:36px;">Other services</h2>
     </div>
     <div class="related-grid">
-      <a class="card card-sm card-interactive related-card" href="EMDR.html">
-        <div class="related-photo media">
-          <img src="https://images.squarespace-cdn.com/content/v1/61889ee3b4c1fc40989ecd72/57f4fb30-d65c-4aad-a1b5-d2920dd15b68/IMG_7817.jpg?format=1000w" alt="EMDR therapy" onerror="this.classList.add('broken')"  loading="lazy"/>
-        </div>
-        <div class="related-body">
-          <h3 class="related-title">EMDR Therapy</h3>
-          <p class="related-text">Research-backed trauma processing, often faster than talk therapy. No need to relive every detail.</p>
-          <span class="goldlink">Learn more <i data-lucide="arrow-right" width="15" height="15" style="color:var(--gold-600)"></i></span>
-        </div>
-      </a>
       <a class="card card-sm card-interactive related-card" href="Ketamine.html">
         <div class="related-photo media">
           <img src="https://images.squarespace-cdn.com/content/v1/61889ee3b4c1fc40989ecd72/f7401f0f-c4c6-405b-a913-56aed9ee04d3/IMG_2525.JPG?format=1000w" alt="Ketamine-assisted psychotherapy" onerror="this.classList.add('broken')"  loading="lazy"/>
@@ -392,6 +383,16 @@
         <div class="related-body">
           <h3 class="related-title">Ketamine-Assisted Psychotherapy</h3>
           <p class="related-text">Physician-administered path for treatment-resistant depression, PTSD and anxiety.</p>
+          <span class="goldlink">Learn more <i data-lucide="arrow-right" width="15" height="15" style="color:var(--gold-600)"></i></span>
+        </div>
+      </a>
+      <a class="card card-sm card-interactive related-card" href="Grief.html">
+        <div class="related-photo media">
+          <img src="https://images.squarespace-cdn.com/content/v1/61889ee3b4c1fc40989ecd72/795fd4c8-5133-4e7b-aeac-bc64e786ca4a/IMG_2636.jpg?format=1000w" alt="Prolonged grief therapy" onerror="this.classList.add('broken')"  loading="lazy"/>
+        </div>
+        <div class="related-body">
+          <h3 class="related-title">Prolonged Grief Disorder Therapy</h3>
+          <p class="related-text">Columbia&rsquo;s protocol for grief that has become persistent and stuck.</p>
           <span class="goldlink">Learn more <i data-lucide="arrow-right" width="15" height="15" style="color:var(--gold-600)"></i></span>
         </div>
       </a>
@@ -406,7 +407,7 @@
     <div class="eyebrow" style="margin-bottom:20px;">Take the first step</div>
     <h2 class="display" style="font-size:68px;max-width:820px;margin:0 auto 22px;">Start with a free hour consultation</h2>
     <p class="serif" style="font-size:20px;max-width:540px;margin:0 auto 38px;">
-      We&rsquo;ll talk through what you&rsquo;re experiencing, answer every question, and confirm whether this treatment is the right fit. No commitment required.
+      We&rsquo;ll talk through what brings you in, answer every question, and confirm whether EMDR is the right fit. No commitment required.
     </p>
     <div class="cta-actions">
       <a class="btn btn-lg btn-primary" href="Contact.html">Book my free hour
@@ -476,7 +477,7 @@
     </div>
     <div>
       <div class="footer-col-label">Practice</div>
-      <a class="footer-link" href="Team.html">About Courtney</a>
+      <a class="footer-link" href="Team.html">About Mary Moore</a>
       <a class="footer-link" href="Team.html">About</a>
       <a class="footer-link" href="blog.html">Blog</a>
       <a class="footer-link" href="Team.html">Press &amp; Media</a>
@@ -494,7 +495,7 @@
 
   <div class="footer-bottom-wrap">
     <div class="footer-bottom">
-      <span>&copy; 2026 Courtney Kurtz, LPC-A &middot; TX LPC-A #98764</span>
+      <span>&copy; 2026 Lake Austin Psychotherapy PLLC &middot; TX SOS Filing #804786292copy; 2026 Courtney Kurtz, LPC-A &copy; 2026 Lake Austin Psychotherapy PLLC &middot; TX SOS Filing #804786292middot; TX LPC-A #98764</span>
       <span style="display:flex;gap:20px;">
         <a href="#">Privacy</a><a href="#">Good Faith Estimate</a><a href="#">Records Request</a>
       </span>
