@@ -31,7 +31,7 @@
 
   /* Typography */
   --font-display:'Inter',system-ui,-apple-system,'Segoe UI',sans-serif;
-  --font-body:'Playfair Display',Georgia,'Times New Roman',serif;
+  --font-body:'Inter',system-ui,-apple-system,'Segoe UI',sans-serif;
   --font-mono:'JetBrains Mono',ui-monospace,'SF Mono',Menlo,monospace;
 
   /* Radii */
@@ -55,7 +55,7 @@
 *{ box-sizing:border-box; }
 html{ scroll-behavior:smooth; }
 html,body{ margin:0; background:var(--bg-canvas); color:var(--text-primary); -webkit-font-smoothing:antialiased; text-rendering:optimizeLegibility; }
-body{ font-family:var(--font-body); }
+body{ font-family:var(--font-body); font-weight:500; }
 a{ -webkit-tap-highlight-color:transparent; }
 ::-webkit-scrollbar{ width:11px; }
 ::-webkit-scrollbar-track{ background:var(--bg-canvas-deep); }
